@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://sellmyhousefastgloucester.co.uk/sitemap.xml

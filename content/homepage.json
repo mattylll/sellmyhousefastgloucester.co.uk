@@ -1,0 +1,31 @@
+{
+  "locationIntro": "<p>If you need to <strong>sell your house fast in Gloucester</strong>, our local cash buying service provides a genuine, stress-free alternative to the traditional property market. Gloucester is a cathedral city with a proud industrial heritage, a thriving docks regeneration, and deep roots in English history — from its Roman foundations to its cathedral's starring role in the Harry Potter films. With average house prices around £240,000, the city offers affordable homeownership, yet selling through estate agents can still mean months of viewings, stalled chains, and buyers withdrawing after surveys flag issues in the city's varied housing stock.</p><p>Whether your property is a Victorian terrace in Kingsholm, a family home in Longlevens, a modern build in Quedgeley, a post-war semi in Tuffley, or an ex-council house in Matson, we buy across the GL1 postcode and right across the city. From period houses near the cathedral to suburban homes in Barnwood and Hucclecote, we purchase properties in any condition and can complete in as little as fourteen days. No estate agent fees, no chains, and no last-minute surprises — just a fair cash offer and a completion date that works for you.</p>",
+  "whySellFast": [
+    {
+      "heading": "Bypass Gloucester's Market Uncertainties",
+      "body": "Gloucester's property market sits at an affordable price point that attracts first-time buyers and investors, but this also means the buyer pool is heavily dependent on mortgage approvals. When lending criteria tighten or interest rates rise, demand drops and sales stall. Our cash purchase removes this mortgage dependency entirely. There is no lender to delay or decline, no chain to break, and no risk of a buyer pulling out because their finances have changed."
+    },
+    {
+      "heading": "No Repairs or Renovations Needed",
+      "body": "Gloucester's housing stock spans centuries, from medieval timber-frame buildings near the cathedral to Victorian terraces in Kingsholm, post-war estates in Tuffley and Matson, and modern developments in Quedgeley. Many of these properties need work that deters mortgage-dependent buyers — from damp in older stone-built houses to outdated electrics in post-war homes. We buy properties in any condition whatsoever, so there is no need to spend thousands on repairs or modernisation before selling."
+    },
+    {
+      "heading": "Fast Completion You Control",
+      "body": "Whether you are relocating from Gloucester for a new role, dealing with a relationship breakdown, managing an inherited property in Longlevens, or facing financial difficulty on a mortgage in Barnwood, waiting months for a traditional sale is rarely practical. We can make you a cash offer within 24 hours and complete the purchase in as little as seven days. You choose the completion date, and we make sure everything is in place to meet it."
+    }
+  ],
+  "marketSnapshot": [
+    {
+      "label": "Average House Price",
+      "value": "£240,000"
+    },
+    {
+      "label": "Average Time to Sell (Traditional)",
+      "value": "4-6 months"
+    },
+    {
+      "label": "Our Average Completion",
+      "value": "14 days"
+    }
+  ]
+}
